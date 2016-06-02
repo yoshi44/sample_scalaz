@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/yoshinihon/IdeaProjects/sample_scalaz/conf/application.conf,/Users/yoshinihon/IdeaProjects/sample_scalaz/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/yoshinihon/IdeaProjects/sample_scalaz/conf/logback.xml,/Users/yoshinihon/IdeaProjects/sample_scalaz/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/yoshinihon/IdeaProjects/sample_scalaz/conf/routes,/Users/yoshinihon/IdeaProjects/sample_scalaz/target/scala-2.11/classes/routes)[0m
